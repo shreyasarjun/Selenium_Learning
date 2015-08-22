@@ -16,6 +16,7 @@ public class AreaofRadius {
 		
 		System.out.println("Please enter the radius value");
 		System.out.println("Ho ");
+		System.out.println("jkj");
 		int a=temp.nextInt();
 		
 		AreaofRadius obj=new AreaofRadius();
