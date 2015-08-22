@@ -14,7 +14,7 @@ public class AreaofRadius {
 		
 		Scanner temp=new Scanner(System.in);
 		
-		System.out.println("Please enter the radius value");
+		System.out.println("Please enter the radius vlue");
 	
 	
 		int a=temp.nextInt();
