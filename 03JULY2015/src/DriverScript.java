@@ -62,6 +62,7 @@ public class DriverScript {
 		else if ((prop.getProperty("Browser")).equalsIgnoreCase("Firefox")) {
 			
 			WebDriver driver=new FirefoxDriver();
+			   
 			driver.manage().window().maximize();
 			Thread.sleep(5000);
 			driver.manage().deleteAllCookies();
